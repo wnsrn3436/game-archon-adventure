@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="총소리" type="RESOURCE"/>
+  <resource name="처음" type="RESOURCE"/>
+  <resource name="볼소리" type="RESOURCE"/>
+  <resource name="드라군소리" type="RESOURCE"/>
+  <resource name="드라곤죽을디" type="RESOURCE"/>
+</resources>

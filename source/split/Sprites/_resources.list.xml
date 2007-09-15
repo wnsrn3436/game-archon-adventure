@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="목3" type="RESOURCE"/>
+  <resource name="목2" type="RESOURCE"/>
+  <resource name="목1" type="RESOURCE"/>
+  <resource name="걍" type="RESOURCE"/>
+  <resource name="아콘" type="RESOURCE"/>
+  <resource name="드라군" type="RESOURCE"/>
+  <resource name="드라곤볼" type="RESOURCE"/>
+  <resource name="드라곤볼2" type="RESOURCE"/>
+  <resource name="드라곤볼3" type="RESOURCE"/>
+  <resource name="드라곤볼4" type="RESOURCE"/>
+  <resource filename="f리_" name="f리?" type="RESOURCE"/>
+  <resource name="아콘파" type="RESOURCE"/>
+  <resource name="점" type="RESOURCE"/>
+  <resource name="드라군2" type="RESOURCE"/>
+  <resource name="드라군3" type="RESOURCE"/>
+  <resource name="드라군4" type="RESOURCE"/>
+  <resource name="아콘파파" type="RESOURCE"/>
+  <resource name="1탄보스" type="RESOURCE"/>
+  <resource name="알림" type="RESOURCE"/>
+  <resource name="보스" type="RESOURCE"/>
+  <resource name="보스2" type="RESOURCE"/>
+  <resource name="보스3" type="RESOURCE"/>
+  <resource name="재작" type="RESOURCE"/>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="스태이지1" type="RESOURCE"/>
+  <resource filename="리_" name="리?" type="RESOURCE"/>
+  <resource name="보스" type="RESOURCE"/>
+  <resource name="보스2" type="RESOURCE"/>
+  <resource name="보스3" type="RESOURCE"/>
+</resources>
